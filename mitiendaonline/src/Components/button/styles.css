@@ -1,0 +1,10 @@
+.button-container {
+    border: none;
+    background-color: pink;
+    padding: 1rem 2rem;
+    cursor:pointer;
+    border-radius: 3px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
